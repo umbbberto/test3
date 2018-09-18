@@ -1,0 +1,5 @@
+<?php
+
+eco 'navbar';
+
+?>
